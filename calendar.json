@@ -245,7 +245,7 @@
  },
  {
   "id": 19,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-10-27",
   "type": "piramide",
@@ -270,7 +270,9 @@
    "overmeesteren",
    "met",
    "kapitein"
-  ]
+  ],
+  "made_on": "2026-11-01",
+  "video_url": "https://github.com/mbrewrites-prog/gbyke/releases/download/quiz-2026-11-01-19/GBYKE_2026-11-01_piramide_mutyama.mp4"
  },
  {
   "id": 20,
