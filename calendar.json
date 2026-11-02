@@ -276,7 +276,7 @@
  },
  {
   "id": 20,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-10-27",
   "type": "husselaar",
@@ -285,7 +285,9 @@
   "hint": "Geurige keukenplant met lange, smalle groene bladeren.",
   "scene": "a bright farmers market stall with colorful crates",
   "outfit": "denim jacket, grey hoodie, black cargo pants, plain sneakers",
-  "extra": "m"
+  "extra": "m",
+  "made_on": "2026-11-02",
+  "video_url": "https://github.com/mbrewrites-prog/gbyke/releases/download/quiz-2026-11-02-20/GBYKE_2026-11-02_husselaar_sereh.mp4"
  },
  {
   "id": 21,
