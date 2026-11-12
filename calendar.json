@@ -291,7 +291,7 @@
  },
  {
   "id": 21,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-10-27",
   "type": "cryptisch",
@@ -301,7 +301,9 @@
   "scene": "a sunny beach boardwalk with wooden railings",
   "outfit": "khaki bomber jacket, white tee, relaxed jeans, plain sneakers",
   "clue": "Glazen bewaarder met hals; een bericht erin drijft over zee.",
-  "extra_line": "Sranantongo, vijf letters"
+  "extra_line": "Sranantongo, vijf letters",
+  "made_on": "2026-11-12",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-12-21/GBYKE_2026-11-12_cryptisch_batra.mp4"
  },
  {
   "id": 22,
