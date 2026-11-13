@@ -307,7 +307,7 @@
  },
  {
   "id": 22,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-10-27",
   "type": "code",
@@ -315,7 +315,9 @@
   "meaning": "zes",
   "hint": "Eén meer dan vijf.",
   "scene": "a modern street corner with colorful murals",
-  "outfit": "navy hoodie, beige cargo pants, plain white sneakers"
+  "outfit": "navy hoodie, beige cargo pants, plain white sneakers",
+  "made_on": "2026-11-13",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-13-22/GBYKE_2026-11-13_code_siksi.mp4"
  },
  {
   "id": 23,
