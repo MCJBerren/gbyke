@@ -321,7 +321,7 @@
  },
  {
   "id": 23,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-10-27",
   "type": "klinkers",
@@ -329,7 +329,9 @@
   "meaning": "schooldag",
   "hint": "Op deze dag zit je in de klas.",
   "scene": "a leafy campus courtyard with benches and bikes",
-  "outfit": "oversized grey tee, light denim jacket, black jeans, plain sneakers"
+  "outfit": "oversized grey tee, light denim jacket, black jeans, plain sneakers",
+  "made_on": "2026-11-14",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-14-23/GBYKE_2026-11-14_klinkers_skorodei.mp4"
  },
  {
   "id": 24,
