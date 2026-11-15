@@ -335,7 +335,7 @@
  },
  {
   "id": 24,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-10-27",
   "type": "tweewoorden",
@@ -347,7 +347,9 @@
   "words": [
    "huis",
    "mens"
-  ]
+  ],
+  "made_on": "2026-11-15",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-15-24/GBYKE_2026-11-15_tweewoorden_ososma.mp4"
  },
  {
   "id": 25,
@@ -371,5 +373,112 @@
    "nee",
    "huis"
   ]
+ },
+ {
+  "id": 26,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-15",
+  "type": "husselaar",
+  "answer": "amra",
+  "meaning": "hamer",
+  "hint": "Daarmee sla je een spijker in de muur.",
+  "scene": "sunny rooftop terrace with a city skyline at golden hour",
+  "outfit": "olive bomber jacket, black cargo pants, white oversized tee, clean white sneakers",
+  "extra": "t"
+ },
+ {
+  "id": 27,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-15",
+  "type": "cryptisch",
+  "answer": "freigron",
+  "meaning": "vliegveld",
+  "hint": "Hier begint een reis door de lucht.",
+  "scene": "colorful street mural wall in a lively neighborhood",
+  "outfit": "oversized grey hoodie, light denim jeans, plain canvas sneakers",
+  "clue": "Terrein waar toestellen opstijgen en landen, startbaan inbegrepen.",
+  "extra_line": "Plek voor vliegtuigen"
+ },
+ {
+  "id": 28,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-15",
+  "type": "code",
+  "answer": "medari",
+  "meaning": "medaille",
+  "hint": "Die hang je om je nek als je gewonnen hebt.",
+  "scene": "modern city park with green lawns and a winding path",
+  "outfit": "navy bomber jacket, beige cargo pants, plain white tee, simple sneakers",
+  "extra": ""
+ },
+ {
+  "id": 29,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-15",
+  "type": "klinkers",
+  "answer": "watramlun",
+  "meaning": "watermeloen",
+  "hint": "Groot, rond, groen aan de buitenkant en rood van binnen.",
+  "scene": "busy open-air market square with colorful awnings",
+  "outfit": "oversized yellow tee, relaxed blue denim, clean sneakers without logos",
+  "extra": ""
+ },
+ {
+  "id": 30,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-15",
+  "type": "tweewoorden",
+  "answer": "umapkin",
+  "meaning": "dochter",
+  "hint": "Een meisje in het gezin van haar ouders.",
+  "scene": "cozy neighborhood cafe terrace with plants and wooden tables",
+  "outfit": "black hoodie, wide-leg denim jeans, white sneakers, small crossbody bag",
+  "words": [
+   "dame",
+   "kind"
+  ]
+ },
+ {
+  "id": 31,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-15",
+  "type": "piramide",
+  "answer": "grani",
+  "meaning": "eer",
+  "hint": "Je krijgt het als anderen met respect naar je kijken.",
+  "scene": "bright skate park with smooth concrete and blue sky",
+  "outfit": "oversized red tee, grey cargo shorts, denim jacket, plain sneakers",
+  "layers": 5,
+  "rows": [
+   "a",
+   "na",
+   "gro",
+   "grin"
+  ],
+  "row_meanings": [
+   "de",
+   "de",
+   "groeien",
+   "meel"
+  ]
+ },
+ {
+  "id": 32,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-15",
+  "type": "husselaar",
+  "answer": "lotrei",
+  "meaning": "loterij",
+  "hint": "Je koopt een briefje en hoopt op geluk.",
+  "scene": "sunny boulevard lined with palm trees and small shops",
+  "outfit": "khaki bomber jacket, black jeans, white oversized tee, minimal sneakers",
+  "extra": "m"
  }
 ]
