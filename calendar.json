@@ -353,7 +353,7 @@
  },
  {
   "id": 25,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-10-27",
   "type": "piramide",
@@ -372,7 +372,9 @@
    "de",
    "nee",
    "huis"
-  ]
+  ],
+  "made_on": "2026-11-16",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-16-25/GBYKE_2026-11-16_piramide_nono.mp4"
  },
  {
   "id": 26,
