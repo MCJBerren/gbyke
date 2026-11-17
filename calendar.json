@@ -378,7 +378,7 @@
  },
  {
   "id": 26,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-11-15",
   "type": "husselaar",
@@ -387,7 +387,9 @@
   "hint": "Daarmee sla je een spijker in de muur.",
   "scene": "sunny rooftop terrace with a city skyline at golden hour",
   "outfit": "olive bomber jacket, black cargo pants, white oversized tee, clean white sneakers",
-  "extra": "t"
+  "extra": "t",
+  "made_on": "2026-11-17",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-17-26/GBYKE_2026-11-17_husselaar_amra.mp4"
  },
  {
   "id": 27,
