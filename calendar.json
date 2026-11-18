@@ -393,7 +393,7 @@
  },
  {
   "id": 27,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-11-15",
   "type": "cryptisch",
@@ -403,7 +403,9 @@
   "scene": "colorful street mural wall in a lively neighborhood",
   "outfit": "oversized grey hoodie, light denim jeans, plain canvas sneakers",
   "clue": "Terrein waar toestellen opstijgen en landen, startbaan inbegrepen.",
-  "extra_line": "Plek voor vliegtuigen"
+  "extra_line": "Plek voor vliegtuigen",
+  "made_on": "2026-11-18",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-18-27/GBYKE_2026-11-18_cryptisch_freigron.mp4"
  },
  {
   "id": 28,
