@@ -424,7 +424,7 @@
  },
  {
   "id": 29,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-11-15",
   "type": "klinkers",
@@ -433,7 +433,9 @@
   "hint": "Groot, rond, groen aan de buitenkant en rood van binnen.",
   "scene": "busy open-air market square with colorful awnings",
   "outfit": "oversized yellow tee, relaxed blue denim, clean sneakers without logos",
-  "extra": ""
+  "extra": "",
+  "made_on": "2026-11-20",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-20-29/GBYKE_2026-11-20_klinkers_watramlun.mp4"
  },
  {
   "id": 30,
