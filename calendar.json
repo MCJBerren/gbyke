@@ -439,7 +439,7 @@
  },
  {
   "id": 30,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-11-15",
   "type": "tweewoorden",
@@ -451,7 +451,9 @@
   "words": [
    "dame",
    "kind"
-  ]
+  ],
+  "made_on": "2026-11-21",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-21-30/GBYKE_2026-11-21_tweewoorden_umapkin.mp4"
  },
  {
   "id": 31,
