@@ -457,7 +457,7 @@
  },
  {
   "id": 31,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-11-15",
   "type": "piramide",
@@ -478,7 +478,9 @@
    "de",
    "groeien",
    "meel"
-  ]
+  ],
+  "made_on": "2026-11-22",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-22-31/GBYKE_2026-11-22_piramide_grani.mp4"
  },
  {
   "id": 32,
@@ -492,5 +494,115 @@
   "scene": "sunny boulevard lined with palm trees and small shops",
   "outfit": "khaki bomber jacket, black jeans, white oversized tee, minimal sneakers",
   "extra": "m"
+ },
+ {
+  "id": 33,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-22",
+  "type": "cryptisch",
+  "answer": "nefi",
+  "meaning": "mes",
+  "hint": "Je vindt dit naast de vork op tafel.",
+  "scene": "A sunny outdoor picnic table in a city park with fruit and bread on a checkered cloth",
+  "outfit": "Olive bomber jacket, white oversized tee, light denim jeans, plain white sneakers",
+  "clue": "Fien raakt in de war en snijdt het brood.",
+  "extra_line": "Anagram van Fien."
+ },
+ {
+  "id": 34,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-22",
+  "type": "code",
+  "answer": "krown",
+  "meaning": "kroon",
+  "hint": "Een glimmend sieraad voor op het hoofd van een prinses.",
+  "scene": "A colorful street mural wall in a lively neighborhood on a bright afternoon",
+  "outfit": "Gray hoodie, black cargo pants, clean sneakers without logo",
+  "layers": null
+ },
+ {
+  "id": 35,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-22",
+  "type": "klinkers",
+  "answer": "paranoto",
+  "meaning": "paranoot",
+  "hint": "Een grote bruine pit uit het regenwoud, lekker als tussendoortje.",
+  "scene": "A busy open-air market with stalls of tropical fruit and vegetables",
+  "outfit": "Beige oversized tee, dark cargo shorts, denim jacket, white sneakers",
+  "layers": null
+ },
+ {
+  "id": 36,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-22",
+  "type": "tweewoorden",
+  "answer": "osobasi",
+  "meaning": "huisbaas",
+  "hint": "Bij hem moet je aan het eind van de maand de huur betalen.",
+  "scene": "A tree-lined residential street with colorful wooden houses and a blue sky",
+  "outfit": "Navy hoodie, relaxed blue jeans, grey sneakers without logo",
+  "words": [
+   "huis",
+   "baas"
+  ]
+ },
+ {
+  "id": 37,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-22",
+  "type": "piramide",
+  "answer": "kaiman",
+  "meaning": "krokodil",
+  "hint": "Een groot reptiel dat in rivieren leeft en scherpe tanden heeft.",
+  "scene": "A wooden pier by a calm river at golden hour with greenery in the background",
+  "outfit": "Khaki cargo pants, black oversized tee, light bomber jacket, canvas sneakers",
+  "layers": 6,
+  "rows": [
+   "a",
+   "ma",
+   "kan",
+   "mani",
+   "dansi"
+  ],
+  "row_meanings": [
+   "de",
+   "maar",
+   "kan",
+   "bijenwas",
+   "dans"
+  ]
+ },
+ {
+  "id": 38,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-22",
+  "type": "husselaar",
+  "answer": "bruku",
+  "meaning": "broek",
+  "hint": "Dit trek je 's ochtends aan, samen met een shirt.",
+  "scene": "A bright, tidy bedroom corner with a wooden wardrobe and morning light",
+  "outfit": "Green hoodie, black joggers, white sneakers without logo",
+  "extra": "m"
+ },
+ {
+  "id": 39,
+  "status": "klaar",
+  "planned_by": "claude",
+  "planned_on": "2026-11-22",
+  "type": "cryptisch",
+  "answer": "kwala",
+  "meaning": "kwal",
+  "hint": "Je ziet het soms op het strand liggen na een storm.",
+  "scene": "A sunny beach boardwalk with palm trees and a few colorful beach huts",
+  "outfit": "Denim jacket, white oversized tee, beige cargo pants, clean sneakers",
+  "clue": "Zonder hersenen toch een prikker in zee; je kunt er zo doorheen kijken.",
+  "extra_line": "Zeedier met tentakels."
  }
 ]
