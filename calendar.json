@@ -484,7 +484,7 @@
  },
  {
   "id": 32,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-11-15",
   "type": "husselaar",
@@ -493,7 +493,9 @@
   "hint": "Je koopt een briefje en hoopt op geluk.",
   "scene": "sunny boulevard lined with palm trees and small shops",
   "outfit": "khaki bomber jacket, black jeans, white oversized tee, minimal sneakers",
-  "extra": "m"
+  "extra": "m",
+  "made_on": "2026-11-23",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-23-32/GBYKE_2026-11-23_husselaar_lotrei.mp4"
  },
  {
   "id": 33,
