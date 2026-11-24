@@ -499,7 +499,7 @@
  },
  {
   "id": 33,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-11-22",
   "type": "cryptisch",
@@ -509,7 +509,9 @@
   "scene": "A sunny outdoor picnic table in a city park with fruit and bread on a checkered cloth",
   "outfit": "Olive bomber jacket, white oversized tee, light denim jeans, plain white sneakers",
   "clue": "Fien raakt in de war en snijdt het brood.",
-  "extra_line": "Anagram van Fien."
+  "extra_line": "Anagram van Fien.",
+  "made_on": "2026-11-24",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-24-33/GBYKE_2026-11-24_cryptisch_nefi.mp4"
  },
  {
   "id": 34,
