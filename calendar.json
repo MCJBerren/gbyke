@@ -515,7 +515,7 @@
  },
  {
   "id": 34,
-  "status": "klaar",
+  "status": "gepost",
   "planned_by": "claude",
   "planned_on": "2026-11-22",
   "type": "code",
@@ -524,7 +524,9 @@
   "hint": "Een glimmend sieraad voor op het hoofd van een prinses.",
   "scene": "A colorful street mural wall in a lively neighborhood on a bright afternoon",
   "outfit": "Gray hoodie, black cargo pants, clean sneakers without logo",
-  "layers": null
+  "layers": null,
+  "made_on": "2026-11-27",
+  "video_url": "https://github.com/MCJBerren/gbyke/releases/download/quiz-2026-11-27-34/GBYKE_2026-11-27_code_krown.mp4"
  },
  {
   "id": 35,
